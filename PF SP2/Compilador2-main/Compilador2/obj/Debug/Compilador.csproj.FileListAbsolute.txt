@@ -1,0 +1,13 @@
+G:\SIST_PROGRA_2_COMPILADOR\Compilador2-main\Compilador2\bin\Debug\Compilador2.exe.config
+G:\SIST_PROGRA_2_COMPILADOR\Compilador2-main\Compilador2\bin\Debug\Compilador2.exe
+G:\SIST_PROGRA_2_COMPILADOR\Compilador2-main\Compilador2\bin\Debug\Compilador2.pdb
+G:\SIST_PROGRA_2_COMPILADOR\Compilador2-main\Compilador2\obj\Debug\Compilador.csprojAssemblyReference.cache
+G:\SIST_PROGRA_2_COMPILADOR\Compilador2-main\Compilador2\obj\Debug\Compilador2.exportar.resources
+G:\SIST_PROGRA_2_COMPILADOR\Compilador2-main\Compilador2\obj\Debug\Compilador2.Form1.resources
+G:\SIST_PROGRA_2_COMPILADOR\Compilador2-main\Compilador2\obj\Debug\Compilador2.Inicio.resources
+G:\SIST_PROGRA_2_COMPILADOR\Compilador2-main\Compilador2\obj\Debug\Compilador2.Properties.Resources.resources
+G:\SIST_PROGRA_2_COMPILADOR\Compilador2-main\Compilador2\obj\Debug\Compilador.csproj.GenerateResource.cache
+G:\SIST_PROGRA_2_COMPILADOR\Compilador2-main\Compilador2\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+G:\SIST_PROGRA_2_COMPILADOR\Compilador2-main\Compilador2\obj\Debug\Compilador2.exe
+G:\SIST_PROGRA_2_COMPILADOR\Compilador2-main\Compilador2\obj\Debug\Compilador2.pdb
+G:\SIST_PROGRA_2_COMPILADOR\Compilador2-main\Compilador2\obj\Debug\Compilador2.Exp.resources
